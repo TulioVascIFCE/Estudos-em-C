@@ -25,8 +25,4 @@ int main(void)
 	enum day {sun = 0, mon, tue, wed, thu, fri, sat};
 	enum cardinals_points {north = 0, east = 90, south = 180, west = 270};
 	enum months { jan = 1, fev, mar, apr, may, jun, jul, aug, sep, oct, nov, dec};
-
-	
-	
-	
 }
